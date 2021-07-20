@@ -11,6 +11,12 @@ VM-AKER is a vm assinstant, this program help you in the task of making your vir
 # Dependences 
 - qemu (https://github.com/qemu/QEMU) 
 - python
+# Installation and usage
+```sh
+git clone https://github.com/mental-breakdown/vm-aker.git
+cd vm-aker
+python main.py
+```
 
 
 
