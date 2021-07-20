@@ -5,8 +5,10 @@ VM-AKER is a vm assinstant, this program help you in the task of making your vir
 
 # Features
 - create the dir of the vm
+- download the iso of the OS than you want
 - create the virtual disk for the vm
 - create a script in .local/bin to launch the vm
+- launch the vm with the installation iso
 
 # Dependences 
 - qemu (https://github.com/qemu/QEMU) 
